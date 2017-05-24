@@ -1,0 +1,27 @@
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.Tests.dll
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.Tests.pdb
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.dll
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.pdb
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.csprojResolveAssemblyReference.cache
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.dll
+E:\Univer\3 Курс\PE\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.pdb
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.Tests.dll
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.Tests.pdb
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.dll
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.pdb
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.csprojResolveAssemblyReference.cache
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.dll
+C:\Users\krenog\Documents\Labs\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.pdb
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.Tests.dll
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.Tests.pdb
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.dll
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\bin\Debug\Laboratory.pdb
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.csprojResolveAssemblyReference.cache
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.dll
+E:\Univer\3 Курс\PE\Labs\Laboratory\Laboratory.Tests\obj\Debug\Laboratory.Tests.pdb
